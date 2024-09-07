@@ -18,7 +18,7 @@ body {
 
 /* Estiliza os títulos h1 h2 e p */
 h1 {
-    font-size: 3.0rem; /* Tamanho da fonte */
+    font-size: 6.0rem; /* Tamanho da fonte */
     color: #8e2901; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.5rem; /* Espaçamento entre letras */
@@ -87,6 +87,7 @@ section button:hover {
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    opacity: 0.5;
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
@@ -108,7 +109,7 @@ section button:hover {
 
 /* Estiliza a descrição meta dentro dos itens de resultado */
 .descricao-meta {
-    color: #706c6cdd; /* Cor do texto */
+    color: #771818dd; /* Cor do texto */
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
