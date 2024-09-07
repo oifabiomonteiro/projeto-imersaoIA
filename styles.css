@@ -16,7 +16,7 @@ body {
     background-size: cover;
 }
 
-/* Estiliza os títulos h1 */
+/* Estiliza os títulos h1 h2 e p */
 h1 {
     font-size: 3.0rem; /* Tamanho da fonte */
     color: #8e2901; /* Cor do texto */
@@ -26,6 +26,12 @@ h1 {
 h2 {
     color: #FFFFFF;
     font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: #ffffff; /* Cor do texto */
+    
+    
 }
 /* Estiliza as seções da página */
 section {
